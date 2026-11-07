@@ -1,0 +1,30 @@
+SBI Flexicap Fund
+Mr. Anup Upadhyay - Fund Manager
+ 
+From <https://www.sbimf.com/sbimf-scheme-details/sbi-flexicap-fund-39> 
+ 
+Historical NAV
+₹ 109.6522
+ 
+          Quantitative   Data
+             Expense   Ratio Regular in % (as on 31 Oct ,2026)
+         :
+         2.04
+             Expense   Ratio Direct in % (as on 31 Oct ,2026)
+         :
+         1.24
+             Tracking   Error Regular (as on 05 Nov ,2026)
+         :
+         3.6108   %
+             Sharpe   Ratio
+         :
+         0.16
+             Standard   Deviation
+         :
+         13.76%
+             Beta
+         :
+         0.87
+        
+ 
+From <https://www.sbimf.com/sbimf-scheme-details/sbi-flexicap-fund-39>

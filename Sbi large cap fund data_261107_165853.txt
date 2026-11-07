@@ -1,0 +1,27 @@
+SBI LARGE CAP FUND 
+Mr. Saurabh Pant - Fund Manager 
+ 
+ 
+NAV:95.1737
+          Quantitative   Data
+             Expense   Ratio Regular in % (as on 31 Oct ,2026)
+         :
+         1.51
+             Expense   Ratio Direct in % (as on 31 Oct ,2026)
+         :
+         0.89
+             Tracking   Error Regular (as on 05 Nov ,2026)
+         :
+         3.3161   %
+             Sharpe   Ratio
+         :
+         0.25
+             Standard   Deviation
+         :
+         13.83%
+             Beta
+         :
+         0.92
+        
+ 
+From <https://www.sbimf.com/sbimf-scheme-details/sbi-large-cap-fund-(formerly-known-as-sbi-bluechip-fund)-43>

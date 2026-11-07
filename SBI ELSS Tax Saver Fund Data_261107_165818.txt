@@ -1,0 +1,27 @@
+SBI ELSS Tax Saver Fund
+ 
+From <https://www.sbimf.com/sbimf-scheme-details/sbi-elss-tax-saver-fund-(formerly-known-as-sbi-long-term-equity-fund)-3> 
+ 
+NAV:
+433.8919
+ 
+Mr. Milind Agrawal - Fund Manager
+          Quantitative   Data
+             Expense   Ratio Regular in % (as on 31 Oct ,2026)
+         :
+         1.85
+             Expense   Ratio Direct in % (as on 31 Oct ,2026)
+         :
+         1.23
+             Sharpe   Ratio
+         :
+         0.47
+             Standard   Deviation
+         :
+         15.53%
+             Beta
+         :
+         0.97
+        
+ 
+From <https://www.sbimf.com/sbimf-scheme-details/sbi-elss-tax-saver-fund-(formerly-known-as-sbi-long-term-equity-fund)-3>
